@@ -48,7 +48,7 @@ id,Country (or dependency),Population 2025,Yearly Change,Net Change,Density (P/K
 47,Peru,34576665,0.01,358817,27,1280000,11931,1.94,30.2,0.81,0.0,South America
 48,Saudi Arabia,34566328,0.02,603571,16,2149690,119738,2.29,29.6,0.92,0.0,Asia
 49,Madagascar,32740678,0.02,775722,56,581795,"−2,227",3.85,19.2,0.4,0.0,Africa
-50,Côte d'Ivoire,32711547,0.02,777317,103,318000,11305,4.17,18.3,0.49,0.0,Unknown
+50,Côte d'Ivoire,32711547,0.02,777317,103,318000,11305,4.17,18.3,0.49,0.0,Africa
 51,Cameroon,29879337,0.03,755593,63,472710,"−15,379",4.18,18.0,0.59,0.0,Africa
 52,Nepal,29618118,-0.001,"−32,936",207,143350,"−364,699",1.94,25.3,0.25,0.0,Asia
 53,Venezuela,28516896,0.0,111353,32,882050,"−100,467",2.06,29.4,0.0,0.0,South America
@@ -182,12 +182,12 @@ id,Country (or dependency),Population 2025,Yearly Change,Net Change,Density (P/K
 181,Mayotte,337011,0.03,10506,899,375,44,4.5,17.1,0.41,0.0,Africa
 182,Vanuatu,335169,0.02,7392,27,12190,−52,3.53,20.3,0.25,0.0,Oceania
 183,French Guiana,313666,0.02,5144,4,82200,−909,3.29,25.0,0.95,0.0,South America
-184,New Caledonia,295333,0.01,2694,16,18280,440,1.95,34.5,0.76,0.0,Unknown
+184,New Caledonia,295333,0.01,2694,16,18280,440,1.95,34.5,0.76,0.0,Oceania
 185,Barbados,282623,0.0,156,657,430,−87,1.71,39.4,0.33,0.0,North America
-186,French Polynesia,282465,0.0,658,77,3660,"−1,199",1.48,36.1,0.66,0.0,Unknown
+186,French Polynesia,282465,0.0,658,77,3660,"−1,199",1.48,36.1,0.66,0.0,Oceania
 187,Sao Tome & Principe,240254,0.02,4718,250,960,−650,3.53,19.5,0.78,0.0,Africa
 188,Samoa,219306,0.01,1287,77,2830,"−2,815",3.75,19.8,0.16,0.0,Oceania
-189,Curaçao,185487,0.0,5,418,444,470,1.07,38.7,0.81,0.0,Unknown
+189,Curaçao,185487,0.0,5,418,444,470,1.07,38.7,0.81,0.0,South America
 190,Saint Lucia,180149,0.0,405,295,610,−23,1.38,34.6,0.2,0.0,North America
 191,Guam,168999,0.01,1222,313,540,−493,2.71,31.5,0.99,0.0,Oceania
 192,Kiribati,136488,0.01,1970,169,810,−462,3.09,22.9,0.57,0.0,Oceania
@@ -217,7 +217,7 @@ id,Country (or dependency),Population 2025,Yearly Change,Net Change,Density (P/K
 216,Monaco,38341,-0.008,−290,25732,1,100,2.09,53.6,0.0,0.0,Europe
 217,Marshall Islands,36282,-0.034,"−1,266",202,180,"−1,698",2.82,20.4,0.0,0.0,Oceania
 218,San Marino,33572,0.0,−9,560,60,122,1.16,48.6,0.0,0.0,Europe
-219,Caribbean Netherlands,31338,0.02,663,96,328,600,1.45,39.6,0.66,0.0,Unknown
+219,Caribbean Netherlands,31338,0.02,663,96,328,600,1.45,39.6,0.66,0.0,South America
 220,Palau,17663,-0.002,−32,38,460,−16,1.86,38.5,0.0,0.0,Oceania
 221,Anguilla,14728,0.01,130,164,90,70,1.35,38.7,0.0,0.0,North America
 222,Cook Islands,13263,-0.034,−466,55,240,−460,2.0,37.1,0.0,0.0,Oceania
@@ -225,7 +225,7 @@ id,Country (or dependency),Population 2025,Yearly Change,Net Change,Density (P/K
 224,Saint Barthelemy,11414,0.01,156,544,21,158,0.83,39.0,0.0,0.0,North America
 225,Wallis & Futuna,11194,-0.007,−83,80,140,−83,1.4,38.2,0.0,0.0,Oceania
 226,Tuvalu,9492,-0.016,−154,316,30,−255,3.14,24.2,0.86,0.0,Oceania
-227,Saint Pierre & Miquelon,5574,-0.01,−54,24,230,−8,1.28,47.2,0.0,0.0,Unknown
+227,Saint Pierre & Miquelon,5574,-0.01,−54,24,230,−8,1.28,47.2,0.0,0.0,North America
 228,Saint Helena,5197,-0.008,−40,13,390,1,1.64,50.9,0.33,0.0,Africa
 229,Montserrat,4359,-0.007,−30,44,100,−9,1.45,41.6,0.12,0.0,North America
 230,Falkland Islands,3469,0.0,−1,0,12170,−17,1.7,42.8,0.68,0.0,South America
